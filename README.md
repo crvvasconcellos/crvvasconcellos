@@ -1,6 +1,6 @@
 ### Cyro Vasconcellos - [Data Scientist / Data Analyst BI] 👋
 
-## I am an industrial engineer turned data scientist / Data Analyst BI who loves to learn through data!
+## I am an Industrial Engineer turned Data Scientist / Data Analyst BI, who loves to learn through data!
 
 - 💻 I’m currently studing and creating Data projects
 - 📈 I’m constantly learning and Improving my skills
