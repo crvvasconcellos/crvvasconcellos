@@ -1,11 +1,10 @@
 ### Cyro Vasconcellos - [Data Scientist / Data Analyst BI] 👋
 
-## I am an industrial engineer turned data scientist who loves leveraging data-driven solutions that make an impact on business and society!
+## I am an industrial engineer turned data scientist / Data Analyst BI who loves to learn through data!
 
-- 💻 I’m currently studing and creating projects as a Data Science and Data Analyst
-- 💻 I'm also working for a company specialized on Artificial Intelligence (AI) and High Technology
-- 📈 I’m constantly learning and Improving my skills 🤣
-- 📊 I’m looking to collaborate with other Data Scientists and developers 
+- 💻 I’m currently studing and creating Data projects
+- 📈 I’m constantly learning and Improving my skills
+- 📊 I’m looking for a job in data area
 
 ### Connect with me:
 
@@ -30,6 +29,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/go.svg" />
 
 <br />
 <br />
