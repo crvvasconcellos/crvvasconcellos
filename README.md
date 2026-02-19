@@ -1,10 +1,21 @@
-### Cyro Vasconcellos - [Data Scientist / Data Analyst BI] 👋
+# Cyro Vasconcellos  
+## Data Analyst | SQL | Customer & Revenue Analytics
 
-## I am an Industrial Engineer turned Data Scientist / Data Analyst BI, who loves to learn through data!
+I am a Data Analyst focused on SQL-driven business analytics, customer retention, and revenue performance.
 
-- 💻 I’m currently studing and creating Data projects
-- 📈 I’m constantly learning and Improving my skills
-- 📊 I’m looking for a job in data area
+My work includes:
+
+• Customer churn & retention analysis  
+• Cohort and repeat purchase behavior  
+• Revenue concentration (Pareto analysis)  
+• Funnel conversion analysis  
+• Advanced SQL with window functions  
+
+Currently building structured analytical projects using SQLite and business-focused datasets.
+
+📌 Featured Project:
+sql-customer-retention  
+(End-to-end retention, funnel & revenue concentration analysis)
 
 ### Connect with me:
 
